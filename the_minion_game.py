@@ -4,7 +4,7 @@ Organization: Data and Cloud Computing Society
 
 This challenge was posted on HackerRank.com. The link to the challenge description
 is posted in the link below:
-url ->
+url -> https://www.hackerrank.com/challenges/the-minion-game/problem
 
 """
 import re
